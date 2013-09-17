@@ -17,7 +17,7 @@ While our focus is information security, the information presented may be on var
 This event being produced by the community, for the benefit of the community; all decisions made, all actions we take are made with that in mind.
 
 ##The Team
-BSides Knoxville is being by members of the community, through [](). The planning team is:
+BSides Knoxville is being by members of the community, through [Seeds of Epiphany](http://www.seedsofepiphany.com/). The planning team is:
 
  * [Adrian Sanabria](http://averysawaba.blogspot.com/)
  * [Adam Compton](https://twitter.com/tatanus)
