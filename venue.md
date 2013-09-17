@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /about/index.html
-title: About
+permalink: /venue/index.html
+title: Venue
 image:
   feature: texture-feature-02.jpg
   credit: Texture Lovers
