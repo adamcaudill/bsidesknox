@@ -23,6 +23,12 @@
 </div>
 
 <div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
+    <article itemscope itemtype="http://schema.org/CreativeWork">
+        <div class="article-wrap" itemprop="text">
+            {{ content }}
+        </div><!-- /.article-wrap -->
+    </article>
+
   <h3><a href="{{ site.url}}/blog">Blog</a></h3>
   {% for post in site.categories.articles limit:5 %}    
   <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
