@@ -4,4 +4,4 @@ permalink: /cfp/index.html
 title: CFP
 ---
 
-Coming soon!
+Details on the CFP will be announced soon.
