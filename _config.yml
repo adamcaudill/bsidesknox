@@ -32,8 +32,10 @@ bing_verify:
 links:
   - title: About
     url: /about
-  - title: Articles
-    url: /articles
+  - title: Blog
+    url: /blog
+  - title: CFP
+    url: /cfp
   - title: Venue
     url: /venue
 
@@ -44,7 +46,7 @@ pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink:   /blog/:year/:month/:day/:title
 
 kramdown:
   auto_ids: true
